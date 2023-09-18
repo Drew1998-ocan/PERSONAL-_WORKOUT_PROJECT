@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+.workouts{
+  width: 350px;
+}
+.description{
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Helvetica", Arial, sans-serif!important;
+  color: rgb(76, 89, 94);
+  
+
+}
+.links{
+
+  margin-right: 100px;
+  text-decoration: none;
+  color: rgb(35, 121, 161);
+}
+.logo{
+  margin-right: 200px;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
